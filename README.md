@@ -6,3 +6,4 @@ This is a collaborative project to clone a health website gymwolf.com. Website p
 
 
 # Deployment link -https://envious-cactus-6437.netlify.app/
+![gym](https://user-images.githubusercontent.com/108014776/207070156-645515e8-f305-4313-b826-e829758650e0.png)
